@@ -1,74 +1,71 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Athang — software developer, AI explorer and builder"/>
+<img src="./assets/hero.svg" width="100%" alt="Athang — developer, systems builder and AI explorer"/>
 
 <br/>
 
 <a href="https://github.com/Athang-codes">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=building+developer+tools;exploring+AI+%26+LLMs;writing+systems+software;turning+ideas+into+real+projects" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=building+things+I+wish+existed;native+software+%2B+developer+tooling;AI+%26+model+experiments;learn+%E2%86%92+build+%E2%86%92+break+%E2%86%92+repeat" alt="Typing animation"/>
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SYSTEMS-111119?style=flat-square&labelColor=0b0b10&color=8b5cf6"/>
-  <img src="https://img.shields.io/badge/STACK-C%2B%2B%20%7C%20RUST%20%7C%20C%23%20%7C%20TS-111119?style=flat-square&labelColor=0b0b10&color=22d3ee"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-111119?style=flat-square&labelColor=0b0b10&color=a78bfa"/>
+  <a href="https://github.com/Athang-codes?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-OPEN-111119?style=flat-square&labelColor=0b0b10&color=A78BFA"/></a>
+  <a href="https://github.com/Athang-codes"><img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20AI-111119?style=flat-square&labelColor=0b0b10&color=22D3EE"/></a>
+  <a href="mailto:nd506970@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-111119?style=flat-square&labelColor=0b0b10&color=A78BFA"/></a>
 </p>
 
 </div>
 
 ---
 
-## 01 / About
+### \`$ whoami\`
 
-I'm **Athang** — a developer who likes understanding what happens underneath the interface.
+I'm **Athang**.
 
-I move between **native software, developer tooling, backend systems and AI experiments**, usually learning by building something real and then pushing it until I understand where the edges are.
+I like taking ideas from **“what if?”** to something that actually runs — moving between native software, backend systems, UI, developer tooling and AI/LLM experiments.
 
-> **Ideas are cheap. Building the system is the fun part.**
+I care about the part underneath the interface: architecture, performance, tooling, edge cases and the little details that make a project feel complete.
 
----
-
-## 02 / Current Focus
-
-<div align="center">
-
-<img src="./assets/current-focus.svg" width="100%" alt="Animated current focus panel"/>
-
-</div>
+> **Build first. Understand deeper. Repeat.**
 
 ---
 
+### \`// what I'm building\`
+
+<img src="./assets/current-focus.svg" width="100%" alt="Animated current focus"/>
+
+<br/>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### ◈ AI
+**AI / MODELS**
 
 LLMs  
-Model tooling  
-Runtime systems  
+model tooling  
+runtime experiments  
 AI engineering
 
 </td>
 <td width="33%" valign="top">
 
-### ◈ Systems
+**SYSTEMS**
 
 C++  
 Rust  
-Performance  
-Native Windows
+native software  
+performance
 
 </td>
 <td width="33%" valign="top">
 
-### ◈ Product
+**PRODUCT**
 
-Desktop UI  
-Backend architecture  
-Web apps  
-Developer tools
+desktop UI  
+backend services  
+web apps  
+developer tools
 
 </td>
 </tr>
@@ -76,61 +73,28 @@ Developer tools
 
 ---
 
-## 03 / Repository Constellation
+### \`// selected work\`
 
-<img src="./assets/project-map.svg" width="100%" alt="Animated map of selected public repositories"/>
-
----
-
-## 04 / Selected Builds
-
-<div align="center">
-
-<a href="https://github.com/Athang-codes/aimguardmkn">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Athang-codes&repo=aimguardmkn&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=9ca3af&bg_color=00000000" width="48%" alt="aimguardmkn"/>
-</a>
-<a href="https://github.com/Athang-codes/kgxfs">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Athang-codes&repo=kgxfs&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=9ca3af&bg_color=00000000" width="48%" alt="kgxfs"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Athang-codes/Cloud">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Athang-codes&repo=Cloud&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=9ca3af&bg_color=00000000" width="48%" alt="Cloud"/>
-</a>
-<a href="https://github.com/Athang-codes/Client">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Athang-codes&repo=Client&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=9ca3af&bg_color=00000000" width="48%" alt="Client"/>
-</a>
-
-</div>
+<img src="./assets/builds.svg" width="100%" alt="Selected build cards"/>
 
 <p align="center">
-  <sub>More experiments live across my public repositories → <a href="https://github.com/Athang-codes?tab=repositories">browse all repositories</a></sub>
+  <sub><a href="https://github.com/Athang-codes?tab=repositories">→ explore the rest of the repositories</a></sub>
 </p>
 
 ---
 
-## 05 / Technologies
+### \`// stack\`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,rust,ts,js,python,java,react,nextjs,nodejs,cmake,opencv,mongodb,supabase,git,github&perline=8" alt="Technology stack"/>
-
-<br/><br/>
-
-<code>C++</code> · <code>Rust</code> · <code>C#</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Python</code> · <code>Java</code><br/>
-<code>CMake</code> · <code>Node.js</code> · <code>React</code> · <code>Next.js</code> · <code>OpenGL</code> · <code>Dear ImGui</code> · <code>MongoDB</code> · <code>Supabase</code>
-
-</div>
+<img src="./assets/stack.svg" width="100%" alt="Technology stack visualization"/>
 
 ---
 
-## 06 / GitHub Telemetry
+### \`// telemetry\`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Athang-codes&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=a78bfa&icon_color=22d3ee&text_color=9ca3af&bg_color=00000000" height="175" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athang-codes&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=a78bfa&text_color=9ca3af&bg_color=00000000" height="175" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Athang-codes&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=A78BFA&icon_color=22D3EE&text_color=9CA3AF&bg_color=00000000" height="175" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athang-codes&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=A78BFA&text_color=9CA3AF&bg_color=00000000" height="175" alt="Top languages"/>
 
 <br/><br/>
 
@@ -140,7 +104,7 @@ Developer tools
 
 ---
 
-## 07 / Contribution Matrix
+### \`// contribution flow\`
 
 <div align="center">
 
@@ -154,23 +118,27 @@ Developer tools
 
 ---
 
-## 08 / Build Loop
+### \`// build philosophy\`
 
 <div align="center">
-<table>
-<tr><td align="center">
-<b>IDEA</b> → <b>ARCHITECTURE</b> → <b>PROTOTYPE</b> → <b>BREAK / DEBUG</b><br/>
-↓<br/>
-<b>UNDERSTAND</b> → <b>IMPROVE</b> → <b>SHIP</b> → ↺
-</td></tr>
-</table>
+
+\` IDEA \` ──→ \` ARCHITECTURE \` ──→ \` PROTOTYPE \`
+
+                             ↓
+
+\` DEBUG \` ←── \` IMPROVE \` ←── \` UNDERSTAND \`
+
+                             ↓
+
+                        \` SHIP \` ↺
+
 </div>
 
-I don't want to only use technology — I want to understand **why it works, where it breaks, and how to make it better.**
+I don't just want projects that **look finished**. I want projects that make me understand something I didn't understand before.
 
 ---
 
-## 09 / Connect
+### \`// connect\`
 
 <div align="center">
 
@@ -183,8 +151,8 @@ I don't want to only use technology — I want to understand **why it works, whe
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Animated footer"/>
+<img src="./assets/footer.svg" width="100%" alt="Animated profile footer"/>
 
-<sub>Curious about how things work. Obsessed with building them.</sub>
+<sub>curious by default · building by choice</sub>
 
 </div>
