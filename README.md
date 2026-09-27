@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Athang-codes/Athang-codes/main/assets/profile-banner.svg" width="100%" alt="Athang profile banner"/>
+<img src="https://raw.githubusercontent.com/Athang-codes/Athang-codes/main/assets/apple-banner.svg" width="100%" alt="Athang profile banner"/>
 
 <a href="mailto:nd506970@gmail.com">Email</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
