@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#fbfbfd"/>
+    <stop offset=".55" stop-color="#f5f7fb"/>
+    <stop offset="1" stop-color="#eef2ff"/>
+  </linearGradient>
+  <radialGradient id="blue">
+    <stop stop-color="#60a5fa" stop-opacity=".42"/>
+    <stop offset=".55" stop-color="#93c5fd" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="purple">
+    <stop stop-color="#c4b5fd" stop-opacity=".38"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#ffffff" stop-opacity=".92"/>
+    <stop offset=".48" stop-color="#eef2ff" stop-opacity=".7"/>
+    <stop offset="1" stop-color="#dbeafe" stop-opacity=".5"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#64748b" flood-opacity=".13"/></filter>
+</defs>
+
+<rect x="3" y="3" width="1194" height="314" rx="26" fill="url(#bg)" stroke="#e5e7eb"/>
+
+<circle cx="1010" cy="55" r="250" fill="url(#blue)" filter="url(#blur)">
+  <animate attributeName="cx" values="1010;930;1010" dur="12s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1080" cy="255" r="190" fill="url(#purple)" filter="url(#blur)">
+  <animate attributeName="cy" values="255;210;255" dur="10s" repeatCount="indefinite"/>
+</circle>
+
+<!-- subtle glass panel -->
+<rect x="48" y="42" width="1104" height="236" rx="22" fill="#ffffff" fill-opacity=".34" stroke="#ffffff" stroke-opacity=".8"/>
+
+<g transform="translate(82 66)">
+  <text x="0" y="12" font-family="Arial,sans-serif" font-size="11" font-weight="600" fill="#6b7280" letter-spacing="2.5">ATHANG</text>
+  <text x="0" y="83" font-family="Arial,sans-serif" font-size="64" font-weight="700" fill="#111827" letter-spacing="-3.5">Build different.</text>
+  <text x="2" y="119" font-family="Arial,sans-serif" font-size="16" fill="#6b7280">software · systems · AI</text>
+
+  <g transform="translate(0 153)">
+    <rect width="72" height="28" rx="14" fill="#ffffff" fill-opacity=".72" stroke="#e5e7eb"/>
+    <text x="36" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="600" fill="#374151">C++</text>
+    <rect x="82" width="72" height="28" rx="14" fill="#ffffff" fill-opacity=".72" stroke="#e5e7eb"/>
+    <text x="118" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="600" fill="#374151">Rust</text>
+    <rect x="164" width="72" height="28" rx="14" fill="#ffffff" fill-opacity=".72" stroke="#e5e7eb"/>
+    <text x="200" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="600" fill="#374151">C#</text>
+    <rect x="246" width="106" height="28" rx="14" fill="#ffffff" fill-opacity=".72" stroke="#e5e7eb"/>
+    <text x="299" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="600" fill="#374151">TypeScript</text>
+  </g>
+</g>
+
+<!-- abstract Apple-like glass orb -->
+<g transform="translate(885 48)" filter="url(#shadow)">
+  <circle cx="105" cy="105" r="82" fill="url(#orb)" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="105" cy="105" r="58" fill="none" stroke="#c7d2fe" stroke-width="1.5" opacity=".8"/>
+  <circle cx="105" cy="105" r="33" fill="#ffffff" fill-opacity=".6" stroke="#bfdbfe"/>
+  <text x="105" y="116" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#1f2937">A</text>
+  <circle cx="105" cy="22" r="5" fill="#60a5fa">
+    <animateTransform attributeName="transform" type="rotate" from="0 105 105" to="360 105 105" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="187" cy="105" r="4" fill="#a78bfa">
+    <animateTransform attributeName="transform" type="rotate" from="360 105 105" to="0 105 105" dur="11s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g transform="translate(82 248)">
+  <circle cx="5" cy="-3" r="4" fill="#34d399"/>
+  <text x="17" y="1" font-family="Arial,sans-serif" font-size="10" fill="#6b7280">currently building &amp; experimenting</text>
+</g>
+
+<text x="1118" y="250" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#9ca3af">01 / 2026</text>
+</svg>
