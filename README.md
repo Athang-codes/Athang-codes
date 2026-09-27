@@ -30,6 +30,15 @@ I move between **native software, developer tooling, backend systems and AI expe
 
 ## 02 / Current Focus
 
+<div align="center">
+
+<img src="./assets/current-focus.svg" width="100%" alt="Animated current focus panel"/>
+
+</div>
+
+---
+
+
 <table>
 <tr>
 <td width="33%" valign="top">
