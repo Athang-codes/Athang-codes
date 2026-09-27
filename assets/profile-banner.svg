@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#06b6d4"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="45"/></filter>
+</defs>
+<rect width="1200" height="300" rx="20" fill="#09090b"/>
+<circle cx="1010" cy="120" r="170" fill="#7c3aed" opacity=".18" filter="url(#blur)"/>
+<circle cx="1110" cy="220" r="140" fill="#06b6d4" opacity=".12" filter="url(#blur)"/>
+<path d="M0 250 Q250 170 500 245 T1000 190 T1250 230" fill="none" stroke="url(#a)" stroke-width="2" opacity=".7"/>
+<path d="M0 252 Q250 172 500 247 T1000 192 T1250 232" fill="none" stroke="#fff" stroke-width=".5" opacity=".18"/>
+
+<g transform="translate(58 48)">
+  <text x="0" y="12" fill="#71717a" font-family="monospace" font-size="10" letter-spacing="3">HELLO, I'M</text>
+  <text x="0" y="88" fill="#fafafa" font-family="Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-4">Athang.</text>
+  <text x="3" y="123" fill="#a1a1aa" font-family="Arial,sans-serif" font-size="16">developer building software, systems &amp; AI.</text>
+  <rect x="3" y="153" width="48" height="3" rx="2" fill="url(#a)"/>
+  <text x="3" y="190" fill="#52525b" font-family="monospace" font-size="11">C++   ·   Rust   ·   C#   ·   TypeScript   ·   AI</text>
+</g>
+
+<g transform="translate(825 48)">
+  <text x="0" y="10" fill="#52525b" font-family="monospace" font-size="9" letter-spacing="2">WHAT I BUILD</text>
+  <text x="0" y="48" fill="#e4e4e7" font-family="Arial,sans-serif" font-size="15">native software</text>
+  <text x="0" y="77" fill="#e4e4e7" font-family="Arial,sans-serif" font-size="15">developer tooling</text>
+  <text x="0" y="106" fill="#e4e4e7" font-family="Arial,sans-serif" font-size="15">backend systems</text>
+  <text x="0" y="135" fill="#e4e4e7" font-family="Arial,sans-serif" font-size="15">AI experiments</text>
+  <line x1="0" y1="164" x2="260" y2="164" stroke="#27272a"/>
+  <text x="0" y="188" fill="#71717a" font-family="monospace" font-size="10">curious by default</text>
+</g>
+
+<g opacity=".5" fill="#fff">
+  <circle cx="1130" cy="46" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1160" cy="70" r="1.5"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="1085" cy="38" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
