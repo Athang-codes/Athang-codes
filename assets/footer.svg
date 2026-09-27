@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-label="Animated developer footer">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<filter id="b"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<path d="M0 95 Q150 35 300 95 T600 95 T900 95 T1200 95" fill="none" stroke="url(#g)" stroke-width="2" opacity=".3" filter="url(#b)">
+<animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 95 Q150 35 300 95 T600 95 T900 95 T1200 95;M0 75 Q150 135 300 75 T600 75 T900 75 T1200 75;M0 95 Q150 35 300 95 T600 95 T900 95 T1200 95"/>
+</path>
+<path d="M0 95 Q150 35 300 95 T600 95 T900 95 T1200 95" fill="none" stroke="url(#g)" stroke-width="1.5">
+<animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 95 Q150 35 300 95 T600 95 T900 95 T1200 95;M0 75 Q150 135 300 75 T600 75 T900 75 T1200 75;M0 95 Q150 35 300 95 T600 95 T900 95 T1200 95"/>
+</path>
+<circle cx="0" cy="95" r="3" fill="#fff"><animate attributeName="cx" values="0;1200" dur="5s" repeatCount="indefinite"/></circle>
+<text x="600" y="128" text-anchor="middle" fill="#777783" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">build · experiment · ship · repeat</text>
+</svg>
